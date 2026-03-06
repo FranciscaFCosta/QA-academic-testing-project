@@ -2,6 +2,7 @@
 
 ## Project Description
 This repository contains an academic QA testing project developed within the Quality Assurance Tester Academy.
+
 The objective of this project was to design test cases based on a provided requirements specification and ensure requirement coverage through a Requirement Traceability Matrix.
 
 ## QA Activities
