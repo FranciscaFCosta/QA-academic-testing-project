@@ -19,6 +19,6 @@ This repository includes the following testing artifacts:
 * Microsoft Excel
 * Manual testing techniques
 
-# Notes
+## Notes
 The testing artifacts included in this repository were originally created in Portuguese as part of the Academy program.
 
