@@ -6,7 +6,8 @@ This repository contains an academic QA testing project developed within the Qua
 The objective of this project was to design test cases based on a provided requirements specification and ensure requirement coverage through a Requirement Traceability Matrix.
 
 ## QA Activities
-* Test case design based on system requirements
+* Test case design based on system requirements, including positive and negative test scenarios
+* Application of test design techniques
 * Creation of a Requirement Traceability Matrix (RTM)
 * Verification of requirement coverage
 
@@ -18,6 +19,16 @@ This repository includes the following testing artifacts:
 ## Tools Used
 * Microsoft Excel
 * Manual testing techniques
+  
+## Challenges
+* Interpreting requirements and identifying relevant test scenarios
+* Ensuring test cases were clear, structured, and easy to understand
+* Identifying and covering potential edge cases
+
+## What I Learned
+* The importance of carefully interpreting requirements to identify relevant test scenarios
+* How to design clear and structured test cases to validate system functionality
+* The value of using a Requirement Traceability Matrix (RTM) to ensure full requirement coverage
 
 ## Notes
 The testing artifacts included in this repository were originally created in Portuguese as part of the Academy program.
