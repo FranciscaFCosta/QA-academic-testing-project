@@ -10,7 +10,7 @@ The objective of this project was to design test cases based on a provided requi
 * Application of test design techniques
 * Creation of a Requirement Traceability Matrix (RTM)
 * Verification of requirement coverage
-
+  
 ## Project Artifacts
 This repository includes the following testing artifacts:
 * **Test Cases** – A set of test cases designed to validate system functionality
