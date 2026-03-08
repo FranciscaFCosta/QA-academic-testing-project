@@ -20,15 +20,10 @@ This repository includes the following testing artifacts:
 * Microsoft Excel
 * Manual Testing Techniques
   
-## Challenges
-* Interpreting requirements and identifying relevant test scenarios
-* Ensuring test cases were clear, structured, and easy to understand
-* Identifying and covering potential edge cases
-
 ## What I Learned
 * The importance of carefully interpreting requirements to identify relevant test scenarios
 * How to design clear and structured test cases to validate system functionality
-* The value of using a Requirement Traceability Matrix (RTM) to ensure full requirement coverage
+* The value of using a Requirement Traceability Matrix to ensure full requirement coverage
 
 ## Notes
 The testing artifacts included in this repository were originally created in Portuguese as part of the Academy program.
