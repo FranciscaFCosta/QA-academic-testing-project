@@ -18,7 +18,7 @@ This repository includes the following testing artifacts:
 
 ## Tools Used
 * Microsoft Excel
-* Manual testing techniques
+* Manual Testing Techniques
   
 ## Challenges
 * Interpreting requirements and identifying relevant test scenarios
